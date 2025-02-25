@@ -1,4 +1,4 @@
-package com.invitations.mapper;
+package com.invitations.teacher;
 
 import com.invitations.dto.TeacherDto;
 import com.invitations.dto.TeacherSignUpDto;

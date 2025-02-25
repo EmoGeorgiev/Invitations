@@ -1,4 +1,4 @@
-package com.invitations.mapper;
+package com.invitations.invitation;
 
 import com.invitations.dto.InvitationDto;
 import com.invitations.invitation.Invitation;

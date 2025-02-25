@@ -2,8 +2,8 @@ package com.invitations.authentication;
 
 import com.invitations.config.JwtService;
 import com.invitations.dto.*;
-import com.invitations.mapper.StudentMapper;
-import com.invitations.mapper.TeacherMapper;
+import com.invitations.student.StudentMapper;
+import com.invitations.teacher.TeacherMapper;
 import com.invitations.student.Student;
 import com.invitations.teacher.Teacher;
 import com.invitations.user.JpaUserDetailsService;

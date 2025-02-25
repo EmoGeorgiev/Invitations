@@ -1,4 +1,4 @@
-package com.invitations.mapper;
+package com.invitations.user;
 
 import com.invitations.dto.UserDto;
 import com.invitations.user.AppUser;

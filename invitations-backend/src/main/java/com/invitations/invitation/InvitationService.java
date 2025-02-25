@@ -4,7 +4,6 @@ import com.invitations.dto.InvitationDto;
 import com.invitations.exception.InvitationNotFoundException;
 import com.invitations.exception.StudentAlreadyHasInvitationException;
 import com.invitations.exception.UserIsNotEnabledException;
-import com.invitations.mapper.InvitationMapper;
 import com.invitations.student.Student;
 import com.invitations.student.StudentService;
 import org.springframework.stereotype.Service;

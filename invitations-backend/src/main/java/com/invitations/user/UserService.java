@@ -3,7 +3,6 @@ package com.invitations.user;
 import com.invitations.dto.UserDto;
 import com.invitations.enums.Role;
 import com.invitations.exception.UserNotFoundException;
-import com.invitations.mapper.UserMapper;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

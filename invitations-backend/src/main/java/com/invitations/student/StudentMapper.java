@@ -1,7 +1,8 @@
-package com.invitations.mapper;
+package com.invitations.student;
 
 import com.invitations.dto.StudentDto;
 import com.invitations.dto.StudentSignUpDto;
+import com.invitations.invitation.InvitationMapper;
 import com.invitations.student.Student;
 
 public class StudentMapper {
